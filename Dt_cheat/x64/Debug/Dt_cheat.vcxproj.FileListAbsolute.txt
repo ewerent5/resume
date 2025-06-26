@@ -1,0 +1,3 @@
+D:\Cpp_\Qt\Dt_cheat\Dt_cheat\x64\Debug\Dt_cheat.vcxproj.AssemblyReference.cache
+D:\Cpp_\Qt\Dt_cheat\Dt_cheat\x64\Debug\Dtcheat.MyForm.resources
+D:\Cpp_\Qt\Dt_cheat\Dt_cheat\x64\Debug\Dt_cheat.vcxproj.GenerateResource.cache
